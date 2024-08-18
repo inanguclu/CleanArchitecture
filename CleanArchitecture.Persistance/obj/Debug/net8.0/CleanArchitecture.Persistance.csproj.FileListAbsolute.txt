@@ -1,0 +1,17 @@
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Persistance.deps.json
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Persistance.runtimeconfig.json
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Persistance.dll
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Persistance.pdb
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.csproj.AssemblyReference.cache
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.AssemblyInfoInputs.cache
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.AssemblyInfo.cs
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArc.7FA6ECDA.Up2Date
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.dll
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\refint\CleanArchitecture.Persistance.dll
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.pdb
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.genruntimeconfig.cache
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\ref\CleanArchitecture.Persistance.dll
