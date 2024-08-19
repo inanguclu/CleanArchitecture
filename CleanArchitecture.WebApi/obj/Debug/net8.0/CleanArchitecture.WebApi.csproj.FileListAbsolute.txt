@@ -144,3 +144,4 @@ C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Application.dll
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.WebApi\obj\Debug\net8.0\CleanArchitecture.WebApi.sourcelink.json

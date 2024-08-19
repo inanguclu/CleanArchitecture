@@ -97,3 +97,4 @@ C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.UnitTest\obj\Deb
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.UnitTest\obj\Debug\net8.0\CleanArchitecture.UnitTest.pdb
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.UnitTest\obj\Debug\net8.0\CleanArchitecture.UnitTest.genruntimeconfig.cache
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.UnitTest\obj\Debug\net8.0\ref\CleanArchitecture.UnitTest.dll
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.UnitTest\obj\Debug\net8.0\CleanArchitecture.UnitTest.sourcelink.json

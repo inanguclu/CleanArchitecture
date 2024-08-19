@@ -9,3 +9,4 @@ C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure\o
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.sourcelink.json

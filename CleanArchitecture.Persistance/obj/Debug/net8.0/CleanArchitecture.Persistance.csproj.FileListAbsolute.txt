@@ -15,3 +15,6 @@ C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.pdb
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.genruntimeconfig.cache
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\ref\CleanArchitecture.Persistance.dll
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.sourcelink.json
