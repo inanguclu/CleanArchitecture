@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\cleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\cleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:49:25.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CleanArchitecture.Application",
+              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "RelativeToolTip": "CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T20:46:51.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CreateCarCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandValidator.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandValidator.cs",
               "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandValidator.cs",
               "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandValidator.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAFAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T09:13:40.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CarService.cs",
               "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistance\\Services\\CarService.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Services\\CarService.cs",
@@ -43,8 +77,7 @@
               "RelativeToolTip": "CleanArchitecture.Persistance\\Services\\CarService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T08:10:13.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T08:10:13.861Z"
             }
           ]
         }
