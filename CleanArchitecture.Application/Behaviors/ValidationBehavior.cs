@@ -1,4 +1,5 @@
 ﻿using FluentValidation;
+using FluentValidation.Results;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -29,7 +30,7 @@ namespace CleanArchitecture.Application.Behaviors
             var errorDictionary = _validators
                 .Select(s => s.Validate(context))
                 .SelectMany(s => s.Errors)
-                .Where(s => s.!= null)
+                .Where(s => s != null)
                 .GroupBy(
                 s => s.PropertyName,
                 s => s.ErrorMessage, (propertyName, errorMessage) => new
@@ -38,7 +39,19 @@ namespace CleanArchitecture.Application.Behaviors
                     Value = errorMessage.Distinct().ToArray()
                 })
                 .ToDictionary(s => s.Key, s => s.Value[0]);
+
+            if(errorDictionary.Any())
+            {
+                var errors = errorDictionary.Select(s => new ValidationFailure
+                {
+                    PropertyName = s.Value,
+                    ErrorCode = s.Key
+                });
+                throw new ValidationException(errors);
+            }
             
+            return await next();
+
 
         }
     }
