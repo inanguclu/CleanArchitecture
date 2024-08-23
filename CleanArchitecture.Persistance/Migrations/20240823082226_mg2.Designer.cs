@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CleanArchitecture.Persistance.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240823075725_mg2")]
+    [Migration("20240823082226_mg2")]
     partial class mg2
     {
         /// <inheritdoc />
@@ -64,7 +64,7 @@ namespace CleanArchitecture.Persistance.Migrations
                     b.Property<string>("RequestMethod")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("RequestPatch")
+                    b.Property<string>("RequestPath")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("StackTrace")
@@ -78,7 +78,7 @@ namespace CleanArchitecture.Persistance.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("ErrorLog", (string)null);
+                    b.ToTable("ErrorLogs", (string)null);
                 });
 #pragma warning restore 612, 618
         }

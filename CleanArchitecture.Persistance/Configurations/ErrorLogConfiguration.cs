@@ -8,6 +8,6 @@ public sealed class ErrorLogConfiguration : IEntityTypeConfiguration<ErrorLog>
 {
     public void Configure(EntityTypeBuilder<ErrorLog> builder)
     {
-        builder.ToTable("ErrorLog");
+        builder.ToTable("ErrorLogs");
     }
 }

@@ -61,7 +61,7 @@ namespace CleanArchitecture.Persistance.Migrations
                     b.Property<string>("RequestMethod")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("RequestPatch")
+                    b.Property<string>("RequestPath")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("StackTrace")
@@ -75,7 +75,7 @@ namespace CleanArchitecture.Persistance.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("ErrorLog", (string)null);
+                    b.ToTable("ErrorLogs", (string)null);
                 });
 #pragma warning restore 612, 618
         }
