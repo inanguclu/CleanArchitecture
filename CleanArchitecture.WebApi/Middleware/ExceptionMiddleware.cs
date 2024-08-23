@@ -5,7 +5,7 @@ using FluentValidation;
 
 namespace CleanArchitecture.WebApi.Middleware
 {
-    public sealed class ErrorMiddleware : IMiddleware
+    public sealed class ExceptionMiddleware : IMiddleware
     {
         public async Task InvokeAsync(HttpContext context, RequestDelegate next)
         {

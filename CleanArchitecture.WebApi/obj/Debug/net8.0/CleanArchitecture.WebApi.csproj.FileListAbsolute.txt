@@ -148,3 +148,4 @@ C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.WebApi\obj\Debug
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\inang\source\repos\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
