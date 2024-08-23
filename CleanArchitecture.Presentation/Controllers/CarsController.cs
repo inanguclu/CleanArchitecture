@@ -16,5 +16,13 @@ public sealed class CarsController : ApiController
 
         return Ok(response);
     }
+
+    [HttpGet]
+    public IActionResult Calculate()
+    {
+        int x=0, y=0;
+        int result = x / y;
+        return Ok();
+    }
     
 }
