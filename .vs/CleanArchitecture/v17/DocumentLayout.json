@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistance\\Migrations\\20240823082226_mg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.Persistance\\Migrations\\20240823082226_mg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{305042CF-2936-40EB-A1F6-B7F40FBD4636}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.unittest\\carscontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305042CF-2936-40EB-A1F6-B7F40FBD4636}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|solutionrelative:cleanarchitecture.unittest\\carscontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C02DBF32-6355-44A8-9E7F-F79667EDABA6}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistance\\configurations\\errorlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C02DBF32-6355-44A8-9E7F-F79667EDABA6}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\configurations\\errorlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83CC5F3C-0253-4633-9A25-05294F43EBB5}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CC5F3C-0253-4633-9A25-05294F43EBB5}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305042CF-2936-40EB-A1F6-B7F40FBD4636}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.unittest\\cleanarchitecture.unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{305042CF-2936-40EB-A1F6-B7F40FBD4636}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|solutionrelative:cleanarchitecture.unittest\\cleanarchitecture.unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsControllerUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.UnitTest\\CarsControllerUnitTest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.UnitTest\\CarsControllerUnitTest.cs",
+              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.UnitTest\\CarsControllerUnitTest.cs",
+              "RelativeToolTip": "CleanArchitecture.UnitTest\\CarsControllerUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:03:29.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:04:28.469Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240823082226_mg2.cs",
-              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistance\\Migrations\\20240823082226_mg2.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Migrations\\20240823082226_mg2.cs",
-              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistance\\Migrations\\20240823082226_mg2.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistance\\Migrations\\20240823082226_mg2.cs",
+              "DocumentIndex": 2,
+              "Title": "CleanArchitecture.UnitTest",
+              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj",
+              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj",
+              "RelativeToolTip": "CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T08:22:27.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ErrorLogConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistance\\Configurations\\ErrorLogConfiguration.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Configurations\\ErrorLogConfiguration.cs",
-              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistance\\Configurations\\ErrorLogConfiguration.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistance\\Configurations\\ErrorLogConfiguration.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAgwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T08:20:28.412Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T07:02:57.795Z",
               "EditorCaption": ""
             }
           ]
