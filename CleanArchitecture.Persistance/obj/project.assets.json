@@ -1550,6 +1550,18 @@
           }
         }
       },
+      "TS.EntityFrameworkCore.GenericRepository/8.0.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.7"
+        },
+        "compile": {
+          "lib/net8.0/GenericRepository.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/GenericRepository.dll": {}
+        }
+      },
       "CleanArchitecture.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1568,6 +1580,9 @@
       "CleanArchitecture.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "TS.EntityFrameworkCore.GenericRepository": "8.0.3"
+        },
         "compile": {
           "bin/placeholder/CleanArchitecture.Domain.dll": {}
         },
@@ -4212,6 +4227,20 @@
         "system.windows.extensions.6.0.0.nupkg.sha512",
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
+      ]
+    },
+    "TS.EntityFrameworkCore.GenericRepository/8.0.3": {
+      "sha512": "getZV0BATotImbYu0o+KyIXM4GXKbgZ0vJOmulaKlIyaDqRR1vblk5zQBg3ahtJJVK+pgue02VbszO9e9F007Q==",
+      "type": "package",
+      "path": "ts.entityframeworkcore.genericrepository/8.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net8.0/GenericRepository.dll",
+        "logo.jpg",
+        "ts.entityframeworkcore.genericrepository.8.0.3.nupkg.sha512",
+        "ts.entityframeworkcore.genericrepository.nuspec"
       ]
     },
     "CleanArchitecture.Application/1.0.0": {

@@ -2046,6 +2046,18 @@
           }
         }
       },
+      "TS.EntityFrameworkCore.GenericRepository/8.0.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.7"
+        },
+        "compile": {
+          "lib/net8.0/GenericRepository.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/GenericRepository.dll": {}
+        }
+      },
       "CleanArchitecture.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2064,6 +2076,9 @@
       "CleanArchitecture.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "TS.EntityFrameworkCore.GenericRepository": "8.0.3"
+        },
         "compile": {
           "bin/placeholder/CleanArchitecture.Domain.dll": {}
         },
@@ -5431,6 +5446,20 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "TS.EntityFrameworkCore.GenericRepository/8.0.3": {
+      "sha512": "getZV0BATotImbYu0o+KyIXM4GXKbgZ0vJOmulaKlIyaDqRR1vblk5zQBg3ahtJJVK+pgue02VbszO9e9F007Q==",
+      "type": "package",
+      "path": "ts.entityframeworkcore.genericrepository/8.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net8.0/GenericRepository.dll",
+        "logo.jpg",
+        "ts.entityframeworkcore.genericrepository.8.0.3.nupkg.sha512",
+        "ts.entityframeworkcore.genericrepository.nuspec"
+      ]
+    },
     "CleanArchitecture.Application/1.0.0": {
       "type": "project",
       "path": "../CleanArchitecture.Application/CleanArchitecture.Application.csproj",
@@ -5464,7 +5493,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.8",
       "Newtonsoft.Json >= 13.0.1",
-      "Swashbuckle.AspNetCore >= 6.4.0"
+      "Swashbuckle.AspNetCore >= 6.4.0",
+      "TS.EntityFrameworkCore.GenericRepository >= 8.0.3"
     ]
   },
   "packageFolders": {
@@ -5555,6 +5585,10 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.4.0, )"
+          },
+          "TS.EntityFrameworkCore.GenericRepository": {
+            "target": "Package",
+            "version": "[8.0.3, )"
           }
         },
         "imports": [
