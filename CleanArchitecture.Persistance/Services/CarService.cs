@@ -2,7 +2,9 @@
 using CleanArchitecture.Application.Features.CarFeatures.Commands.CreateCar;
 using CleanArchitecture.Application.Services;
 using CleanArchitecture.Domain.Entities;
+using CleanArchitecture.Domain.Repositories;
 using CleanArchitecture.Persistance.Context;
+using GenericRepository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +16,8 @@ namespace CleanArchitecture.Persistance.Services
     public sealed class CarService : ICarService
     {
         private readonly AppDbContext _context;
+        private readonly ICarRepository _carRepository; 
+        private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
 
         public CarService(AppDbContext context, IMapper mapper)
@@ -28,8 +32,13 @@ namespace CleanArchitecture.Persistance.Services
 
 
             Car car = _mapper.Map<Car>(request);
-            await _context.Set<Car>().AddAsync(car,cancellationToken);
-            await _context.SaveChangesAsync(cancellationToken);
+
+
+            //await _context.Set<Car>().AddAsync(car,cancellationToken);
+            //await _context.SaveChangesAsync(cancellationToken);
+
+            await _carRepository.AddAsync(car,cancellationToken);
+            await _unitOfWork.SaveChangesAsync(cancellationToken);
         }
     }
 }
