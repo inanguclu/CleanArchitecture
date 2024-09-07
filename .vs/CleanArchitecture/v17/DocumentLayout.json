@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
               "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
               "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T08:06:02.769Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T08:02:43.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T08:02:43.777Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "CleanArchitecture.WebApi\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAIAwwBEAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:25:13.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:25:13.577Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:58:28.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:58:28.848Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "CleanArchitecture.Persistance\\Services\\CarService.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAA/wCgAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:46:46.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:46:46.793Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "CleanArchitecture.Persistance\\Repositories\\CarRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:35:14.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:35:14.792Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "CleanArchitecture.Domain\\Repositories\\ICarRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:32:17.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:32:17.692Z"
             }
           ]
         }

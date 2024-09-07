@@ -1,4 +1,5 @@
-﻿using CleanArchitecture.Domain.Entities;
+﻿using CleanArchitecture.Application.Services;
+using CleanArchitecture.Domain.Entities;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,13 @@ namespace CleanArchitecture.Application.Features.CarFeatures.Queries.GetAllCar
 {
     public sealed class GetAllCarQueryHandler : IRequestHandler<GetAllCarQuery, IList<Car>>
     {
+        private readonly ICarService _carService;
+
+        public GetAllCarQueryHandler(ICarService carService)
+        {
+            _carService = carService;
+        }
+
         public Task<IList<Car>> Handle(GetAllCarQuery request, CancellationToken cancellationToken)
         {
             throw new NotImplementedException();
