@@ -18,9 +18,10 @@ namespace CleanArchitecture.Application.Features.CarFeatures.Queries.GetAllCar
             _carService = carService;
         }
 
-        public Task<IList<Car>> Handle(GetAllCarQuery request, CancellationToken cancellationToken)
+        public async Task<IList<Car>> Handle(GetAllCarQuery request, CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            IList<Car> cars= await _carService.GetAllAsync(request, cancellationToken);
+            return cars;
         }
     }
 }
