@@ -12,7 +12,8 @@
           "CleanArchitecture.Application": "1.0.0",
           "CleanArchitecture.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.8",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
+          "TS.EntityFrameworkCore.Pagination": "8.0.1"
         },
         "runtime": {
           "CleanArchitecture.Persistance.dll": {}
@@ -967,11 +968,23 @@
           }
         }
       },
+      "TS.EntityFrameworkCore.Pagination/8.0.1": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.8"
+        },
+        "runtime": {
+          "lib/net8.0/EntityFrameworkCorePagination.Nuget.dll": {
+            "assemblyVersion": "8.0.1.0",
+            "fileVersion": "8.0.1.0"
+          }
+        }
+      },
       "CleanArchitecture.Application/1.0.0": {
         "dependencies": {
           "CleanArchitecture.Domain": "1.0.0",
           "FluentValidation": "11.9.2",
-          "MediatR": "12.4.0"
+          "MediatR": "12.4.0",
+          "TS.EntityFrameworkCore.Pagination": "8.0.1"
         },
         "runtime": {
           "CleanArchitecture.Application.dll": {}
@@ -1552,6 +1565,13 @@
       "sha512": "sha512-getZV0BATotImbYu0o+KyIXM4GXKbgZ0vJOmulaKlIyaDqRR1vblk5zQBg3ahtJJVK+pgue02VbszO9e9F007Q==",
       "path": "ts.entityframeworkcore.genericrepository/8.0.3",
       "hashPath": "ts.entityframeworkcore.genericrepository.8.0.3.nupkg.sha512"
+    },
+    "TS.EntityFrameworkCore.Pagination/8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SYklhdafvWqp4N3x04D+jhe6PTPPDwwLvzidW4vSlgbUJ5aimKbBP0WnP6J9QpMttcy/18AIfeKiLlMSFkld7w==",
+      "path": "ts.entityframeworkcore.pagination/8.0.1",
+      "hashPath": "ts.entityframeworkcore.pagination.8.0.1.nupkg.sha512"
     },
     "CleanArchitecture.Application/1.0.0": {
       "type": "project",
