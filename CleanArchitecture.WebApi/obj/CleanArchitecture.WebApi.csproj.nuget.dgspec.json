@@ -57,6 +57,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.4.0, )"
+            },
+            "TS.EntityFrameworkCore.Pagination": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             }
           },
           "imports": [
@@ -208,6 +212,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "TS.EntityFrameworkCore.Pagination": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             }
           },
           "imports": [
@@ -283,6 +291,10 @@
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
+            },
+            "TS.EntityFrameworkCore.Pagination": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             }
           },
           "imports": [

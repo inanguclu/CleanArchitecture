@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XKuBLErMPCc=",
+  "dgSpecHash": "D4jUJv981M0=",
   "success": true,
   "projectFilePath": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj",
   "expectedPackageFiles": [
@@ -128,6 +128,7 @@
     "C:\\Users\\inang\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\inang\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\inang\\.nuget\\packages\\ts.entityframeworkcore.genericrepository\\8.0.3\\ts.entityframeworkcore.genericrepository.8.0.3.nupkg.sha512",
+    "C:\\Users\\inang\\.nuget\\packages\\ts.entityframeworkcore.pagination\\8.0.1\\ts.entityframeworkcore.pagination.8.0.1.nupkg.sha512",
     "C:\\Users\\inang\\.nuget\\packages\\xunit\\2.5.3\\xunit.2.5.3.nupkg.sha512",
     "C:\\Users\\inang\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
     "C:\\Users\\inang\\.nuget\\packages\\xunit.analyzers\\1.4.0\\xunit.analyzers.1.4.0.nupkg.sha512",

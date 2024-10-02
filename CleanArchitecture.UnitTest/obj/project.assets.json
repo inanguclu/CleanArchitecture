@@ -2345,6 +2345,18 @@
           "lib/net8.0/GenericRepository.dll": {}
         }
       },
+      "TS.EntityFrameworkCore.Pagination/8.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.4"
+        },
+        "compile": {
+          "lib/net8.0/EntityFrameworkCorePagination.Nuget.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/EntityFrameworkCorePagination.Nuget.dll": {}
+        }
+      },
       "xunit/2.5.3": {
         "type": "package",
         "dependencies": {
@@ -2452,7 +2464,8 @@
         "dependencies": {
           "CleanArchitecture.Domain": "1.0.0",
           "FluentValidation": "11.9.2",
-          "MediatR": "12.4.0"
+          "MediatR": "12.4.0",
+          "TS.EntityFrameworkCore.Pagination": "8.0.1"
         },
         "compile": {
           "bin/placeholder/CleanArchitecture.Application.dll": {}
@@ -2480,7 +2493,8 @@
         "dependencies": {
           "CleanArchitecture.Application": "1.0.0",
           "MediatR": "12.4.0",
-          "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "TS.EntityFrameworkCore.Pagination": "8.0.1"
         },
         "compile": {
           "bin/placeholder/CleanArchitecture.Presentation.dll": {}
@@ -7068,6 +7082,20 @@
         "logo.jpg",
         "ts.entityframeworkcore.genericrepository.8.0.3.nupkg.sha512",
         "ts.entityframeworkcore.genericrepository.nuspec"
+      ]
+    },
+    "TS.EntityFrameworkCore.Pagination/8.0.1": {
+      "sha512": "SYklhdafvWqp4N3x04D+jhe6PTPPDwwLvzidW4vSlgbUJ5aimKbBP0WnP6J9QpMttcy/18AIfeKiLlMSFkld7w==",
+      "type": "package",
+      "path": "ts.entityframeworkcore.pagination/8.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "1-09.jpg",
+        "README.md",
+        "lib/net8.0/EntityFrameworkCorePagination.Nuget.dll",
+        "ts.entityframeworkcore.pagination.8.0.1.nupkg.sha512",
+        "ts.entityframeworkcore.pagination.nuspec"
       ]
     },
     "xunit/2.5.3": {
