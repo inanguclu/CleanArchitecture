@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
               "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
               "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T21:26:31.251Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Services\\CarService.cs",
               "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistance\\Services\\CarService.cs",
               "RelativeToolTip": "CleanArchitecture.Persistance\\Services\\CarService.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAgwDcAAABYAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAA/wD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T20:44:05.801Z",
               "EditorCaption": ""
@@ -72,8 +72,7 @@
               "RelativeToolTip": "CleanArchitecture.Application\\Services\\ICarService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T21:22:10.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T21:22:10.469Z"
             },
             {
               "$type": "Document",
@@ -85,8 +84,7 @@
               "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T20:38:29.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T20:38:29.932Z"
             },
             {
               "$type": "Document",
@@ -98,8 +96,7 @@
               "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T20:43:35.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T20:43:35.155Z"
             }
           ]
         }
