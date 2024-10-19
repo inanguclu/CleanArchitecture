@@ -13,7 +13,7 @@ namespace CleanArchitecture.Persistance.Mappings
     {
         public MappingProfile()
         {
-            CreateMap<CreateCarCommand,Car>().ReverseMap();
+            CreateMap<CreateCarCommand,Car>();
         }
     }
 }

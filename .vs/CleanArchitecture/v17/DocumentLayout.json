@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DBF32-6355-44A8-9E7F-F79667EDABA6}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistance\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02DBF32-6355-44A8-9E7F-F79667EDABA6}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02DBF32-6355-44A8-9E7F-F79667EDABA6}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistance\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02DBF32-6355-44A8-9E7F-F79667EDABA6}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\authfeatures\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\inang\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\authfeatures\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94D47D5-93EC-42D9-B7F4-5EA99D724269}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistance\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistance\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:54:53.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:52:25.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:49:44.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:45:51.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommand.cs",
+              "ToolTip": "C:\\Users\\inang\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:42:10.203Z",
+              "EditorCaption": ""
             }
           ]
         }
