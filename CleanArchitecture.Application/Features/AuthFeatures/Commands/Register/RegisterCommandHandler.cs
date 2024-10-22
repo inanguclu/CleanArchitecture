@@ -1,13 +1,22 @@
-﻿using CleanArchitecture.Domain.Dtos;
+﻿using CleanArchitecture.Application.Services;
+using CleanArchitecture.Domain.Dtos;
 using MediatR;
 
 namespace CleanArchitecture.Application.Features.AuthFeatures.Commands.Register
 {
     public sealed class RegisterCommandHandler : IRequestHandler<RegisterCommand, MessageResponse>
     {
-        public Task<MessageResponse> Handle(RegisterCommand request, CancellationToken cancellationToken)
+        private readonly IAuthService _authService;
+
+        public RegisterCommandHandler(IAuthService authService)
         {
-            throw new NotImplementedException();
+            _authService = authService;
+        }
+
+        public async Task<MessageResponse> Handle(RegisterCommand request, CancellationToken cancellationToken)
+        {
+            await _authService.RegisterAsync(request);
+            return new("Kullanici kaydi basariyla tamamlandi");
         }
     }
 }
