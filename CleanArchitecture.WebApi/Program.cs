@@ -15,10 +15,13 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<ICarService, CarService>();
-builder.Services.AddTransient<ExceptionMiddleware>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 
+builder.Services.AddTransient<ExceptionMiddleware>();
 builder.Services.AddScoped<ICarRepository, CarRepository>();
 builder.Services.AddScoped<IUnitOfWork>(cfr => cfr.GetRequiredService<AppDbContext>());
+
+
 
 builder.Services.AddAutoMapper(typeof(CleanArchitecture.Persistance.AssemblyReference).Assembly);
 
