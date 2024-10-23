@@ -29,7 +29,12 @@ string connectionString = builder.Configuration.GetConnectionString("SqlServer")
 
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
 
-builder.Services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
+builder.Services.AddIdentity<User, IdentityRole>( options =>
+{
+    options.Password.RequireNonAlphanumeric = false;
+    options.Password.RequiredLength = 1;
+    options.Password.RequireUppercase = false;
+}).AddEntityFrameworkStores<AppDbContext>();
 
 builder.Services.AddControllers()
     .AddApplicationPart(typeof(CleanArchitecture.Presentation.AssemblyReference).Assembly);
